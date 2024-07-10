@@ -1,0 +1,13 @@
+2024-07-10 15:14:30,739 [INFO] Data loaded with shape (10, 4)
+2024-07-10 15:14:30,745 [INFO] Preprocessing data. y = target
+2024-07-10 15:14:30,750 [INFO] Splitting the data with  test_size=0.2
+2024-07-10 15:14:30,981 [INFO] Training the model with a RandomForestClassifier
+2024-07-10 15:14:31,003 [INFO] Evaluating the model:
+2024-07-10 15:14:31,004 [INFO] Save the model to a pickle file
+2024-07-10 15:14:31,163 [INFO] Model saved successfully
+2024-07-10 15:15:13,076 [INFO] Data loaded with shape (10, 4)
+2024-07-10 15:15:13,081 [INFO] Preprocessing data. y = target
+2024-07-10 15:15:13,088 [INFO] Splitting the data with  test_size=0.2
+2024-07-10 15:15:13,500 [INFO] Training the model with a RandomForestClassifier
+2024-07-10 15:15:13,529 [INFO] Evaluating the model:
+2024-07-10 15:15:13,532 [INFO] Save the model to a pickle file
